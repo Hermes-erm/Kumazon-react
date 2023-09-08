@@ -1,0 +1,30 @@
+.cart_body{
+    height: 100vh;
+    display: flex;
+    background-color: #eaeded;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.cont{
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 50px;
+    height: 160px;
+    width: 800px;
+    padding: 20px;
+    /* border: 1px solid; */
+    background-color: white;
+}
+
+.cont .p_ele{
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cont p{
+    margin: 5px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
